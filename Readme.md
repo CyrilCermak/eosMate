@@ -1,7 +1,7 @@
 # eosMate - Interacting with EOS in a mobile-friendly way
 eosMate iOS app - [Landing page](https://eosmate.io/)
 
-[<img src="resources/appstore-badge.png" height="50">](https://apps.apple.com/us/app/id1425706416)
+[<img src="readme/appstore-badge.png" height="50">](https://apps.apple.com/us/app/id1425706416)
 ## About
 
 EOS ecosystem is not mobile-friendly. Transactions cannot simply be authorised by users from a mobile device. Users also do not have a simple way of requesting transaction from other EOS accounts. eosMate is here to fix all mobile related problems and bring the best mobile experience for interacting with the blockchain from a mobile device. eosMate comes with a developer-friendly way of interacting with the blockchain. Simply register a new account with us and you can start sending transactions to users mobile devices e.g from your DApp.
