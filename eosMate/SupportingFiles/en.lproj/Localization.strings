@@ -1,0 +1,219 @@
+/* 
+  File.strings
+  eosX
+
+  Created by Cyril Cermak on 13.03.21.
+  Copyright © 2021 CyrilCermak. All rights reserved.
+*/
+
+"module.menu.title" = "Menu";
+"module.menu.about" = "About eosMate";
+"module.menu.support" = "Support";
+"module.menu.removePKs" = "Remove PKs";
+"module.menu.analytics" = "Analytics Consent";
+"module.menu.tac" = "Terms and Conditions";
+"module.menu.privacyPolicy" = "Privacy Policy";
+"module.menu.imprint" = "Imprint";
+
+"module.menu.removePK.screenTitle" = "Remove Private Keys";
+"module.menu.removePK.title" = "Remove ALL Private Keys";
+"module.menu.removePK.subtitle" = "All PKs will  be removed from your phone";
+"module.menu.removePK.remove" = "REMOVE";
+"module.menu.removePK.disable" = "DISABLE";
+"module.menu.removePK.deletedTitle" = "Your PKs were deleted";
+"module.menu.removePK.deletedDsc" = "All private keys are now gone from your phone.";
+
+"module.menu.analytics.screenTitle" = "Analytics";  
+"module.menu.analytics.headerTitle" = "Analytics tracking";
+"module.menu.analytics.headerSubtitle" = "We are using analytics to improve eosMate";
+"module.menu.analytics.promo" = "Your privacy is valuable,\nby enabling analytics we\nwill collect crashes and\nanonymous events";
+"module.menu.analytics.enable" = "ENABLE";
+"module.menu.analytics.disable" = "DISABLE";
+
+"module.requestTransaction.requestEosFrom" = "EOS request from";
+"module.requestTransaction.sentFromMate" = "Sent from eosMate";
+"module.requestTransaction.requestFrom" = "EOS request from";
+"module.requestTransaction.requestRamFrom" = "EOS RAM request from";
+"module.requestTransaction.requestStakeFrom" = "EOS STAKE request from";
+"module.requestTransaction.notFound" = "Not found";
+"module.requestTransaction.notFoundDsc" = "Please make sure you put in a valid account.";
+"module.requestTransaction.request" = "REQUEST";
+"module.requestTransaction.summeryTransaction" = "TRANSACTION:";
+"module.requestTransaction.summeryRequestFrom" = "REQUEST FROM:";
+"module.requestTransaction.summerySendTo" = "SEND TO:";
+"module.requestTransaction.summeryAmount" = "REQUESTED AMOUNT:";
+"module.requestTransaction.selectRequest" = "Select Request";
+"module.requestTransaction.requesteeAccount" = "Requestee Account";
+"module.requestTransaction.requestingFrom" = "Requesting From Account";
+"module.requestTransaction.requestingAmount" = "Amount";
+"module.requestTransaction.requestingDetail" = "Request Detail";
+"module.requestTransaction.ramInEos" = "RAM in EOS";
+"module.requestTransaction.requestinigCPUAmount" = "CPU Amount in EOS";
+"module.requestTransaction.requestinigNETAmount" = "NET Amount in EOS";
+
+"module.signTransaction.screenTitle" = "Sign Transaction";
+"module.signTransaction.transaction" = "Transaction";
+"module.signTransaction.payload" = "Payload";
+"module.signTransaction.pendingOk" = "Ok";
+"module.signTransaction.pendingCancel" = "Ok";
+"module.signTransaction.pendingTitleDeleteIt" = "Do you want to delete it?";
+"module.signTransaction.pendingTitleText" = "This transaction will be deleted from pending transactions.";
+"module.signTransaction.transactionDeleted" = "Transaction was deleted";
+
+"module.signTransaction.sign" = "SIGN";
+"module.signTransaction.signName" = "Name:";
+"module.signTransaction.signAccount" = "Account:";
+"module.signTransaction.signTable" = "Table:";
+"module.signTransaction.signAction" = "Performed Action:";
+"module.signTransaction.signParams" = "Parameters:";
+"module.signTransaction.transactionsUnavailable" = "Uppps, pending transactions are currently not available";
+
+"module.sharedFlows.btnContinue" = "CONTINUE";
+"module.sharedFlows.enterAmount" = "Enter Amount:";
+"module.sharedFlows.send" = "SEND";
+
+"module.ramFlow.selectAction" = "Select Action";
+"module.ramFlow.activeAccount" = "Active Account";
+"module.ramFlow.ramBytes" = "RAM BYTES";
+"module.ramFlow.summary" = "Summary";
+"module.ramFlow.ramInEos" = "RAM IN EOS";
+"module.ramFlow.ramInBytes" = "RAM IN BYTES";
+"module.ramFlow.success" = "Success!";
+"module.ramFlow.trId" = "Transaction id:";
+"module.ramFlow.action" = "ACTION:";
+"module.ramFlow.account" = "ACCOUNT:";
+
+"module.resourcesFlow.success" = "Success!";
+"module.resourcesFlow.trId" = "Transaction id:";
+"module.resourcesFlow.selectAction" = "Select Action";
+"module.resourcesFlow.activeAccount" = "Active Account";
+"module.resourcesFlow.summary" = "Summary";
+"module.resourcesFlow.cpu" = "CPU";
+"module.resourcesFlow.net" = "NET";
+"module.resourcesFlow.actionInfo" = "ACTION:";
+"module.resourcesFlow.accountInfo" = "ACCOUNT:";
+"module.resourcesFlow.cpuInfo" = "CPU:";
+"module.resourcesFlow.netInfo" = "NET:";
+
+"module.tokensFlow.fromInfo" = "FROM:";
+"module.tokensFlow.toInfo" = "TO:";
+"module.tokensFlow.amountInfo" = "AMOUNT:";
+"module.tokensFlow.success" = "Success!";
+"module.tokensFlow.trId" = "Transaction id:";
+"module.tokensFlow.notFoundTitle" = "Not found";
+"module.tokensFlow.notFoundDsc" = "Please make sure you put in a valid account.";
+
+"module.tokensFlow.activeAccounts" = "Active Accounts";
+"module.tokensFlow.receiver" = "Reciever";
+"module.tokensFlow.amount" = "Amount";
+"module.tokensFlow.summary" = "Summary";
+"module.tokensFlow.btnContinue" = "CONTINUE";
+
+"module.account.deleteIt" = "Yes, delete it.";
+"module.account.cancel" = "Cancel";
+"module.account.deleteAccountConfirmTitle" = "Delete Account";
+"module.account.deleteAccountConfirmDsc" = "Are you sure? Account will be deleted.";
+"module.account.totalBalance" = "TOTAL BALANCE";
+
+"module.account.pkNotCorrect" = "PK is not correct.";
+"module.account.pkNotCorrectDsc" = "You can still use EOSMate but you cannot perform any action. Private key can be added later in account detail section.";
+"module.account.yes" = "Yes";
+"module.account.noJust" = "No, just";
+"module.account.addRelatedAccounts" = "Do you want to also add related accounts?";
+"module.account.relatedAccounts" = "Related accounts";
+"module.account.noSubAccounts" = "No subaccounts";
+"module.account.noSubAccountsDsc" ="It looks like your account does not have any subaccounts. Only this account will be added";
+"module.account.notFound" = "Not found";
+"module.account.notFoundDsc" = "Please make sure you put in a valid account.";
+"module.account.addAccount" = "Add Account";
+
+"module.account.btnAdd" = "Add";
+"module.account.addPk" = "Add private key for";
+"module.account.addPkDsc" = "By providing private key you will be able to perform any action in eosMate.";
+"module.account.addPkTitle" = "Add PK";
+
+"module.account.enterPk" = "(optional)\nEnter private key here to make the account active. Active account can do any action in eosMate. Your key will be saved only in your keychain in your phone.";
+
+"module.info.noActiveAccountsTitle" = "No active accounts";
+"module.info.noActiveAccountsDsc" = "You have to add an active account in order to be able to perfom any of those actions.";
+"module.info.past24h" = "past 24h";
+
+"module.info.actionSendEos" = "SEND EOS";
+"module.info.actionRam" = "RAM";
+"module.info.actionResources" = "RESOURCE";
+"module.info.actionPendingTr" = "PENDING TRANSACTIONS";
+"module.info.actionTrRequest" = "TRANSACTION REQUEST";
+"module.info.tac" = "Terms And Cond";
+"module.info.tacAccept" = "ACCEPT";
+"module.info.eosPrice" = "EOS PRICE";
+"module.info.ramPrice" = "RAM PRICE";
+"module.info.high24h" = "HIGH 24H";
+"module.info.low24h" = "LOW 24H";
+"module.info.change" = "CHANGE";
+"module.info.span24h" = "24h";
+"module.info.resourceStakeUnstake" = "RESOURCE\nSTAKE/UNSTAKE";
+"module.info.ramBuySell" = "RAM\nBUY/SELL";
+"module.info.homeRequestTransaction" = "REQUEST\nTRANSACTION";
+"module.info.homePendingTransaction" = "PENDING\nTRANSACTIONS";
+
+"module.search.searchBy" = "Search by account name...";
+"module.search.totalBalance" = "TOTAL BALANCE";
+"module.search.staked" = "STAKED";
+"module.search.unstaked" = "UNSTAKED";
+"module.search.privileged" = "PRIVILEGED";
+"module.search.otherTokens" = "Other Tokens";
+"module.search.notFoundTitle" = "Not found";
+"module.search.notFoundDsc" = "Please make sure you put in a valid account.";
+"module.search.transactions" = "Transactions";
+
+"module.transactions.payload" = "Payload";
+"module.transactions.all" = "All";
+"module.transactions.apps" = "Apps";
+"module.transactions.transfers" = "Transfers";
+"module.transactions.stake" = "Stake";
+"module.transactions.ram" = "RAM";
+"module.transactions.upps" = "Uppps, transaction history is currently not available";
+
+"module.blockchain.error" = "Error";
+"module.blockchain.invalidPK" = "Error";
+"module.blockchain.keyAlreadyExist" = "Key already exists";
+"module.blockchain.missingName" = "Missing name";
+"module.blockchain.nameNotFound" = "Could not find account name.";
+"module.blockchain.trErrorTitle" = "Transaction error";
+"module.blockchain.trErrorDsc" = "Could not create transaction with such parameters.";
+
+"module.core.upps" = "Uppps something went wrong";
+"module.core.uppsDsc" = "Please try again later.";
+"module.core.success" = "Success";
+"module.core.pasteFromClipboard" = "PASTE FROM CLIPBOARD";
+"module.core.navSearch" = "search";
+"module.core.navBlockchain" = "blockchain";
+"module.core.navMyAccounts" = "my accounts";
+"module.core.tokens" = "TOKENS";
+"module.core.trToSign" = "Transactions To Sign";
+"module.core.failure" = "Failure";
+"module.core.error" = "Error";
+
+// Not verified strings
+"module.onboarding.enable" = "Enable";
+"module.onboarding.skip" = "Skip";
+"module.onboarding.close" = "Close";
+"module.onboarding.notifications" = "Notifications";
+"module.onboarding.notificationsDetail" = "eosMate would like to send you notifications about your account changes.";
+"module.onboarding.analytics" = "Analytics";
+"module.onboarding.analyticsDetail" = "We are using Analytics to improve eosMate functionality. Only non-personalized content is tracked.";
+"module.onboarding.allSet" = "You are all set!";
+"module.onboarding.allSetDetail" = "Would you like to add your EOS account? Or just browse through the app first?";
+"module.onboarding.addAccount" = "Add Account";
+
+"module.onboarding.storeTokens" = "Store securely private keys on your iPhone. Send tokens to other accounts or simply sign transactions from your friends or DApps.";
+"module.onboarding.stake" = "Stake your account's CPU and NET or buy some RAM. Explore blockchain accounts or browse history of transactions.";
+"module.onboarding.observer" = "Get instantly notified via notifications about changes on your account.";
+"module.onboarding.requests" = "Request predefined transactions from your mate's accounts. If the account uses eosMate, they can sign the transaction directly from the app.";
+"module.onboarding.developers" = "As a DApp developer, send transactions from DApps and let users to sign them.";
+
+"module.rateus.enjoying" = "Enjoying eosMate?";
+"module.rateus.pleaseRateUs" = "Please rate us in the App Store";
+"module.rateus.rateUs" = "RATE US";
+"module.rateus.nextTime" = "NEXT TIME";
+"module.rateus.rating" = "App Store Rating";

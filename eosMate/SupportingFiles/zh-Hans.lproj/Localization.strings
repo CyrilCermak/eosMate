@@ -1,0 +1,219 @@
+/*
+  File.strings
+  eosX
+
+  Created by Cyril Cermak on 13.03.21.
+  Copyright © 2021 CyrilCermak. All rights reserved.
+*/
+
+"module.menu.title" = "菜单";
+"module.menu.about" = "关于Eosmate";
+"module.menu.support" = "支持";
+"module.menu.removePKs" = "删除私钥";
+"module.menu.analytics" = "分析同意";
+"module.menu.tac" = "条款和条件";
+"module.menu.privacyPolicy" = "隐私政策";
+"module.menu.imprint" = "版权标记";
+
+"module.menu.removePK.screenTitle" = "删除私钥";
+"module.menu.removePK.title" = "删除所有私钥";
+"module.menu.removePK.subtitle" = "将从您的电话中删除所有私钥";
+"module.menu.removePK.remove" = "删除";
+"module.menu.removePK.disable" = "禁用";
+"module.menu.removePK.deletedTitle" = "您的私钥已删除";
+"module.menu.removePK.deletedDsc" = "所有私钥现在都从您的电话中消失了。";
+
+"module.menu.analytics.screenTitle" = "分析";
+"module.menu.analytics.headerTitle" = "分析跟踪";
+"module.menu.analytics.headerSubtitle" = "我们正在使用分析来改进Eosmate";
+"module.menu.analytics.promo" = "您的隐私很有价值，\n通过启用分析，\n我们将收集崩溃和\n匿名事件";
+"module.menu.analytics.enable" = "启用";
+"module.menu.analytics.disable" = "禁用";
+
+"module.requestTransaction.requestEosFrom" = "EOS请求来自";
+"module.requestTransaction.sentFromMate" = "从EosMate发送";
+"module.requestTransaction.requestFrom" = "EOS请求来自";
+"module.requestTransaction.requestRamFrom" = "EOS RAM请求来自";
+"module.requestTransaction.requestStakeFrom" = "EOS 质押请求来自";
+"module.requestTransaction.notFound" = "找不到";
+"module.requestTransaction.notFoundDsc" = "请确保您输入了有效的帐户。";
+"module.requestTransaction.request" = "请求";
+"module.requestTransaction.summeryTransaction" = "交易：";
+"module.requestTransaction.summeryRequestFrom" = "请求来自：";
+"module.requestTransaction.summerySendTo" = "发送到：";
+"module.requestTransaction.summeryAmount" = "请求的金额：";
+"module.requestTransaction.selectRequest" ="选择请求";
+"module.requestTransaction.requesteeAccount" = "请求帐户";
+"module.requestTransaction.requestingFrom" = "从帐户请求";
+"module.requestTransaction.requestingAmount" = "金额";
+"module.requestTransaction.requestingDetail" = "请求详细信息";
+"module.requestTransaction.ramInEos" = "EOS中的RAM";
+"module.requestTransaction.requestinigCPUAmount" = "EOS中的CPU数量";
+"module.requestTransaction.requestinigNETAmount" = "EOS中的NET 数量";
+
+"module.signTransaction.screenTitle" = "签署交易";
+"module.signTransaction.transaction" = "交易";
+"module.signTransaction.payload" = "有效数据";
+"module.signTransaction.pendingOk" = "确定";
+"module.signTransaction.pendingCancel" = "确定";
+"module.signTransaction.pendingTitleDeleteIt" = "是否删除它？";
+"module.signTransaction.pendingTitleText" = "将从待处理的交易中删除此事务。";
+"module.signTransaction.transactionDeleted" = "交易已删除";
+
+"module.signtransaction.sign" = "标志";
+"Module.SignTransaction.SignName" = "名称：";
+"Module.SignTransaction.SignAccount" = "帐户：";
+"Module.SignTransaction.Signtable" = "表格：";
+"Module.SignTransaction.SignAction" = "执行的操作：";
+"Module.SignTransaction.SignParams" = "参数：";
+"Module.SignTransaction.TransactionSunAvailable" = "UPPS，待处理的交易当前不可用";
+
+"module.sharedFlows.btnContinue" = "继续";
+"module.sharedFlows.enterAmount" = "输入金额：";
+"module.sharedFlows.send" = "发送";
+
+"module.ramFlow.selectAction" = "选择操作";
+"module.ramFlow.activeAccount" = "活动帐户";
+"module.ramFlow.ramBytes" = "RAM字节";
+"module.ramFlow.summary" = "摘要";
+"module.ramFlow.ramInEos" = "EOS中的RAM";
+"module.ramFlow.ramInBytes" = "RAM的字节数";
+"module.ramFlow.success" = "成功！";
+"module.ramFlow.trId" = "交易ID：";
+"module.ramFlow.action" = "操作：";
+"module.ramFlow.account" = "帐户：";
+
+"module.resourcesFlow.success" = "成功！";
+"module.resourcesFlow.trId" = "交易ID：";
+"module.resourcesFlow.selectAction" = "选择操作";
+"module.resourcesFlow.activeAccount" = "活动帐户";
+"module.resourcesFlow.summary" = "摘要";
+"module.resourcesFlow.cpu" = "CPU";
+"module.resourcesFlow.net" = "NET";
+"module.resourcesFlow.actionInfo" = "操作：";
+"module.resourcesFlow.accountInfo" = "帐户：";
+"module.resourcesFlow.cpuInfo" = "CPU：";
+"module.resourcesFlow.netInfo" = "NET：";
+
+"module.tokensFlow.fromInfo" = "来自：";
+"module.tokensFlow.toInfo" = "至：";
+"module.tokensFlow.amountInfo" = "金额：";
+"module.tokensFlow.success" = "成功！";
+"module.tokensFlow.trId" = "交易ID：";
+"module.tokensFlow.notFoundTitle" = "找不到";
+"module.tokensFlow.notFoundDsc" = "请确保您输入了有效的帐户。";
+
+"module.tokensFlow.activeAccounts" = "活动帐户";
+"module.tokensFlow.receiver" = "接收方";
+"module.tokensFlow.amount" = "金额";
+"module.tokensFlow.summary" = "摘要";
+"module.tokensFlow.btnContinue" = "继续";
+
+"module.account.deleteIt" = "是，删除它。";
+"module.account.cancel" = "取消";
+"module.account.deleteAccountConfirmTitle" = "删除帐户";
+"module.account.deleteAccountConfirmDsc" = "是否确定？帐户将被删除。";
+"module.account.totalBalance" = "总余额";
+
+"module.account.pkNotCorrect" = "私钥不正确。";
+"module.account.pkNotCorrectDsc" = "您仍然可以使用EOSMate但不能执行任何操作。私钥可稍后在'帐户详细信息'部分添加。";
+"module.account.yes" = "是";
+"module.account.noJust" = "不，只是";
+"module.account.addRelatedAccounts" = "是否还要添加相关帐户？";
+"module.account.relatedAccounts" = "相关帐户";
+"module.account.noSubAccounts" = "无子帐户";
+"module.account.noSubAccountsDsc" = "看起来您的帐户没有任何子帐户。只添加此帐户";
+"module.account.notFound" = "找不到";
+"module.account.notFoundDsc" = "请确保您输入了有效的帐户。";
+"module.account.addAccount" = "添加帐户";
+
+"module.account.btnAdd" = "添加";
+"module.account.addPk" = "添加私钥给";
+"module.account.addPkDsc" = "通过提供私钥，您将能够执行eosMATE中的任何操作。";
+"module.account.addPkTitle" = "添加私钥";
+
+"module.account.enterPk" = "（可选）\n在此处输入私钥激活帐户。激活的帐户可以执行eosMATE中的任何操作。您的密钥将只保存在您手机的钥匙链中。";
+
+"module.info.noActiveAccountsTitle" = "无激活帐户";
+"module.info.noActiveAccountsDsc" = "必须添加激活的帐户才能执行任何这些操作。";
+"module.info.past24h" = "过去24小时";
+
+"module.info.actionSendEos" = "发送EOS";
+"module.info.actionRam" = "RAM";
+"module.info.actionResources" = "资源";
+"module.info.actionPendingTr" = "未处理的交易";
+"module.info.actionTrRequest" = "交易请求";
+"module.info.tac" = "条款和条件";
+"module.info.tacAccept" = "接受";
+"module.info.eosPrice" = "EOS 价格";
+"module.info.ramPrice" = "RAM 价格";
+"module.info.high24h" = "峰值 24小时";
+"module.info.low24h" = "谷值 24小时";
+"module.info.change" = "改变";
+"module.info.span24h" = "24小时";
+"module.info.resourceStakeUnstake" = "资源质押/不质押";
+"module.info.ramBuySell" = "RAM\n买/卖";
+"module.info.homeRequestTransaction" = "请求类交易";
+"module.info.homePendingTransaction" = "未完成的交易";
+
+"module.search.searchBy" = "按帐户名搜索...";
+"module.search.totalBalance" = "总余额";
+"module.search.staked" = "已质押";
+"module.search.unstaked" = "未质押";
+"module.search.privileged" = "特权";
+"module.search.otherTokens" = "其他代币";
+"module.search.notFoundTitle" = "找不到";
+"module.search.notFoundDsc"=  "请确保您输入了有效的帐户。";
+"module.search.transactions" = "交易";
+
+"module.transactions.payload" = "有效数据";
+"module.transactions.all" = "全部";
+"module.transactions.apps" = "App";
+"module.transactions.transfers" = "转移";
+"module.transactions.stake" = "质押";
+"module.transactions.ram" = "RAM";
+"module.transactions.upps" = "Uppps，交易历史记录当前不可用";
+
+"module.blockchain.error" = "错误";
+"module.blockchain.invalidPK" = "错误";
+"module.blockchain.keyAlreadyExist" = "密钥已经存在";
+"module.blockchain.missingName" = "缺少名称";
+"module.blockchain.nameNotFound" = "找不到帐户名。";
+"module.blockchain.trErrorTitle" = "交易错误";
+"module.blockchain.trErrorDsc" = "无法使用此类参数创建交易。";
+
+"module.core.upps" = "Uppps 有地方出问题了";
+"module.core.uppsDsc" = "请稍后再试。";
+"module.core.success" = "成功";
+"module.core.pasteFromClipboard" = "从剪贴板粘贴";
+"module.core.navSearch" = "搜索";
+"module.core.navBlockchain" = "区块链";
+"module.core.navMyAccounts" = "我的帐户";
+"module.core.tokens" = "代币";
+"module.core.trToSign" = "要签名的交易";
+"module.core.failure"= "失败";
+"module.core.error" = "错误";
+
+// Not verified strings
+"module.onboarding.enable" = "启用";
+"module.onboarding.skip" = "略过";
+"module.onboarding.close" = "密切";
+"module.onboarding.notifications" = "应用通知";
+"module.onboarding.notificationsDetail" = "eosMate希望向您发送有关帐户更改的通知。";
+"module.onboarding.analytics" = "Analytics（分析）";
+"module.onboarding.analyticsDetail" = "我们正在使用Analytics（分析）来改善eosMate功能。 只有非个性化内容以跟踪。";
+"module.onboarding.allSet" = "大功告成！";
+"module.onboarding.allSetDetail" = "您想添加您的EOS帐户吗？ 或者仅仅通过app浏览第一？";
+"module.onboarding.addAccount" = "新增帐户";
+
+"module.onboarding.storeTokens" = "在您的iPhone上安全地存储私钥。 将令牌发送到其他帐户，或直接从您的朋友或DApps签署交易。";
+"module.onboarding.stake" = "利用您帐户的CPU和NET或购买一些RAM。 探索区块链账户或浏览交易历史。";
+"module.onboarding.observer" = "获取立即通过通知通知有关帐户变更。";
+"module.onboarding.requests" = "从伴侣的帐户中请求预定义的交易。 如果该帐户使用eosMate，则他们可以直接从该应用程序签署交易。";
+"module.onboarding.developers" = "作为DAPP开发商，从DApps发送交易，并让用户给他们签名。";
+
+"module.rateus.enjoying" = "享受eosMate？";
+"module.rateus.pleaseRateUs" = "请在App Store中为我们评分";
+"module.rateus.rateUs" = "评价我们";
+"module.rateus.nextTime" = "下次";
+"module.rateus.rating" = "App Store评分";
